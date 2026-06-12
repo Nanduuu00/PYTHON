@@ -1,0 +1,7 @@
+total = 0
+num = 1
+
+while True: 
+    total += num
+    print(f"Added {num}, Total = {total}")
+    num += 1
